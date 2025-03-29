@@ -8,10 +8,6 @@ SEC 10-K/Q Filings: Scraped and parsed using the SEC-API and custom logic to ext
 
 Glassdoor: Employee-submitted company reviews are used to quantify public sentiment and possible red flags in workplace culture.
 
-Financial Data: Extracted directly from the income statement tables in 10-K/Q documents across a 10+ year period.
-
-Misconduct Database: A manually collected external dataset used to validate companies with incomplete or missing filing data from the SEC.
-
 The ultimate goal is to surface patterns between leadership communication, financial trajectory, and internal company culture, providing a data-driven lens into leadership accountability in high-profile firms.
 
 # Challenges
